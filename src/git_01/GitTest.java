@@ -7,6 +7,8 @@ public class GitTest {
 		Scanner sc = new Scanner(System.in);
 		int num = sc.nextInt();
 		System.out.println(num);
+		
+		System.out.println("입력하시오 >>");
 	}
 
 }
