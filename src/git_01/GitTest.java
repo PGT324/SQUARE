@@ -9,6 +9,7 @@ public class GitTest {
 		System.out.println(num);
 		
 		System.out.println("입력하시오 >>");
+		int h1 = sc.nextInt();
 	}
 
 }
